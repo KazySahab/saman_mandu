@@ -1,0 +1,133 @@
+.btn-new{
+    border-color: transparent;
+    background-color: transparent;
+    font-weight: bold;
+    font-size:16px;
+    cursor: pointer;  
+}
+.btn-new:hover{
+    font-size:18px;
+    
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 20px;
+    color:black
+}
+.btn-best{
+    border-color: transparent;
+    background-color: transparent;
+    font-weight: bold;
+    font-size:16px;
+    cursor: pointer;
+}
+.btn-best:hover{
+    font-size:18px;
+    
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 20px;
+    color:black
+}
+.btn-clothings{
+    border-color: transparent;
+    background-color: transparent;
+    font-size: 15px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.btn-clothings:hover{
+    text-decoration:underline;
+    text-decoration-thickness: 2px;
+    
+}
+.btn-homedcr{
+    border-color: transparent;
+    background-color: transparent;
+    font-size: 15px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.btn-homedcr:hover{
+    text-decoration:underline;
+    text-decoration-thickness: 2px;
+}
+.btn-electronics{
+    border-color: transparent;
+    background-color: transparent;
+    font-size: 15px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.btn-electronics:hover{
+    text-decoration:underline;
+    text-decoration-thickness: 2px;
+}
+.btn-kitchen{
+    border-color: transparent;
+    background-color: transparent;
+    font-size: 15px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.btn-kitchen:hover{
+    text-decoration:underline;
+    text-decoration-thickness: 2px;
+}
+.search-bar{
+    height: 25px;
+    width: 250px;
+    margin-left: -38px;
+    border-color: gray;
+    border-width: 1px;
+    border-style: solid;
+   
+}
+.search{
+    height: 29px;
+    width: 50px;
+    margin-left: -1px;
+    background-color:white;
+    border-color: gray;
+    border-width: 1px;
+    border-style: solid;
+  
+}
+.search:hover{
+    background-color: rgb(197, 194, 194);
+}
+
+
+.line{
+    font-size: 50px;
+}
+.insta{
+   margin: 30px 20px 0px 0px;
+    border-radius: 15px;
+    border-color: transparent;
+    background-color: transparent;
+}
+.insta-icon{
+    height: 30px;
+    width: 30px;
+}
+.c-button{
+   margin-top: 70px;
+    height: 80px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.c-button-cart{
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    border-radius: 10px;
+    border-color: transparent;
+    background-color: #338eca;
+    color: white;
+    font-weight: bold;  
+}
