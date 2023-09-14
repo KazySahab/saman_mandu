@@ -1,32 +1,39 @@
-.clothes:hover{
+.clothes:hover {
     cursor: pointer;
     height: 420px;
     width: 420px;
 }
-.image:hover{
+
+.image:hover {
     cursor: pointer;
-    padding:3px;
+    padding: 3px;
     box-shadow: 1px 0px 1px gray;
 }
-.price:hover{
+
+.price:hover {
     cursor: pointer;
-    text-decoration: underline;
-}
-.title:hover{
-    cursor: pointer;
-}
-.insta:hover{
-    cursor: pointer;
-    background-color: rgb(58, 105, 192);
-}
-.foot-contact:hover, .foot-samanmandu:hover{
-    cursor: pointer;
-}
-.c-price:hover{
     text-decoration: underline;
 }
 
-.c-button-cart:hover{
+.title:hover {
+    cursor: pointer;
+}
+
+.insta:hover {
+    cursor: pointer;
+    background-color: rgb(58, 105, 192);
+}
+
+.foot-contact:hover,
+.foot-samanmandu:hover {
+    cursor: pointer;
+}
+
+.c-price:hover {
+    text-decoration: underline;
+}
+
+.c-button-cart:hover {
     cursor: pointer;
     background-color: #194b6d;
     box-shadow: 2px 2px 2px black;
